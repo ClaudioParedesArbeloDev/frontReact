@@ -4,4 +4,4 @@ Este es un proyecto completo de gestión de tareas, con un backend desarrollado 
 
 ## Enlace a la Aplicación Desplegada
 
-https://front-react-74n13t5uq-claudio-paredes-projects.vercel.app/
+https://front-react-nu.vercel.app/
