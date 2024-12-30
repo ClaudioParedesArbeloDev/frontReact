@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-    baseURL: 'http://localhost:8080/api/tasks',
+    baseURL: 'https://my-node-app-50fq.onrender.com/api/tasks',
     headers: {
       'Content-Type': 'application/json',
     },
