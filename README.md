@@ -1,8 +1,7 @@
-# React + Vite
+# Proyecto de Tareas - Backend y Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto completo de gestión de tareas, con un backend desarrollado en **Node.js** utilizando **Express** y una base de datos **MongoDB**. El frontend está desarrollado con **React** y permite a los usuarios gestionar tareas (crear, leer, actualizar y eliminar tareas).
 
-Currently, two official plugins are available:
+## Enlace a la Aplicación Desplegada
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://front-react-74n13t5uq-claudio-paredes-projects.vercel.app/
